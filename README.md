@@ -15,6 +15,7 @@ Applying Python to establish a financial analysis system for PRC listed companie
 ## System Outcome
 
 Search Page (start.py)
+<img src="assets/JeffreyWooFinAnalysisSys1.jpg" alt="JeffreyWooFinAnalysisSys1" width="1200" height="900" />
 
 Main Window (main.py)
 
