@@ -23,10 +23,10 @@ Applying Python to establish a financial analysis system for PRC listed companie
 <img src="assets/JeffreyWooFinAnalysisSys2.jpg" alt="JeffreyWooFinAnalysisSys2" width="1200" height="900" />
 
 3. Ranking of Company Rating (rank.py)
-<img src="assets/JeffreyWooFinAnalysisSys3.jpg" alt="JeffreyWooFinAnalysisSys3" width="600" height="900" />
+<img src="assets/JeffreyWooFinAnalysisSys3.jpg" alt="JeffreyWooFinAnalysisSys3" width="400" height="600" />
 
 4. Selection of Company (selectfirm.py)
-<img src="assets/JeffreyWooFinAnalysisSys4.jpg" alt="JeffreyWooFinAnalysisSys4" width="600" height="900" />
+<img src="assets/JeffreyWooFinAnalysisSys4.jpg" alt="JeffreyWooFinAnalysisSys4" width="400" height="600" />
 
 ## Project Procedure
 
