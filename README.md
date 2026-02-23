@@ -1,5 +1,7 @@
 ## Financial Analysis System for PRC Listed Companies by Python
 
+<img src="assets/JeffreyWooFinAnalysisSys.png" alt="JeffreyWooFinAnalysisSysBanner" width="1200" height="900" />
+
 ## Preface
 
 Big data is a popular new catchphrase in the realm of information technology and quantitative methods that refer to the collection and analysis of massive amounts of information. Advances in computing power along with falling prices thereof are making big data projects increasingly more technically feasible and economic. In particular, the advent of cloud computing is putting the cost of big data analysis within the reach of many smaller firms, which now do not need to make significant capital investments in their own computing infrastructure.
