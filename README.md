@@ -28,11 +28,11 @@ Applying Python to establish a financial analysis system for PRC listed companie
 
 ## Project Procedure
 
-• System Development Environment:
-a. Integrated development environment: Anaconda
-b. Programming language: Python 3.7
-c. Database: SQLite3
-d. UI graphics library: PyQt5
+• System Development Environment:  
+a. Integrated development environment: Anaconda  
+b. Programming language: Python 3.7  
+c. Database: SQLite3  
+d. UI graphics library: PyQt5  
 e. Other libraries: Matplotlib, Numpy
 
 • Description of Related Technology
