@@ -1,4 +1,4 @@
-## Financial Analysis System for PRC Listed Companies by Python
+## Financial Analysis System (for PRC Listed Companies by Python)
 
 <img src="assets/JeffreyWooFinAnalysisSys.png" alt="JeffreyWooFinAnalysisSysBanner" width="1200" height="900" />
 
