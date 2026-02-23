@@ -35,10 +35,10 @@ c. Database: SQLite3
 d. UI graphics library: PyQt5  
 e. Other libraries: Matplotlib, Numpy
 
-• Description of Related Technology
+• Description of Related Technology  
 I used the SQLite database, the front end UI PyQt5 image library and the preliminary UI interface design tool through Qt Designer.
 
-• Database Establishment
+• Database Establishment  
 For database, I used SQLiteSpy as it was easy to use and did not require any complicated configuration for its installation. I imported the csv tables of each company's financial data calculated before into the database, please refer to createdatabase.py.
 <img src="assets/JeffreyWooFinAnalysisSys5.jpg" alt="JeffreyWooFinAnalysisSys5" width="1200" height="900" />
 
