@@ -49,7 +49,7 @@ After that, I used Qt Designer to preliminarily design the search page, and then
 
 <img src="assets/JeffreyWooFinAnalysisSys6.jpg" alt="JeffreyWooFinAnalysisSys6" width="1200" height="900" />
 
-The files start.py, main.py, rank.py, selectfirm.py, etc. corresponded to the respective pages, and the financial comments referred to the website [caibaoshuo.com](https://caibaoshuo.com/)(财报说). For example, the financial performance of the sample company Ping An Bank is as follows:
+The files start.py, main.py, rank.py, selectfirm.py, etc. corresponded to the respective pages, and the financial comments referred to the website [caibaoshuo.com](https://caibaoshuo.com/) (财报说). For example, the financial performance of the sample company Ping An Bank is as follows:
 
 <img src="assets/JeffreyWooFinAnalysisSys7.jpg" alt="JeffreyWooFinAnalysisSys7" width="400" height="600" />
 <img src="assets/JeffreyWooFinAnalysisSys8.jpg" alt="JeffreyWooFinAnalysisSys8" width="1200" height="1800" />
