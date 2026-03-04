@@ -63,3 +63,12 @@ But how to insert the legend of the data change trend in the table?
 This data came from main.py. I applied Matplotlib to generate pictures, and then inserted Form Controls into the table.
 
 If you are interested in the details, please take a look at my Python codes, which have been uploaded to github: https://github.com/wcfjeffrey/Python
+
+⭐ Finance Skills Strengthened
+• Full‑stack architecture for financial analytics applications.  
+• Advanced Python programming for financial system data integration.  
+• Secure handling of financial datasets & environment variables.  
+• AI‑powered financial modeling & variance analysis workflows.  
+• File parsing & structured data transformation (CSV, PDF, SQL) for automated reporting.  
+• Data visualization with Matplotlib & interactive dashboards for decision support.  
+• Database management & financial analytics — contributing to professional growth in finance transformation & investment strategy.
