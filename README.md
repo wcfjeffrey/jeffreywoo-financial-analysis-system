@@ -64,7 +64,7 @@ This data came from main.py. I applied Matplotlib to generate pictures, and then
 
 If you are interested in the details, please take a look at my Python codes, which have been uploaded to github: https://github.com/wcfjeffrey/Python
 
-⭐ Finance Skills Strengthened
+## ⭐ Finance Skills Strengthened
 • Full‑stack architecture for financial analytics applications.  
 • Advanced Python programming for financial system data integration.  
 • Secure handling of financial datasets & environment variables.  
