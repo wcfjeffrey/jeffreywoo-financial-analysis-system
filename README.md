@@ -16,28 +16,29 @@ Applying Python to establish a financial analysis system for PRC listed companie
 
 ## Tech Stack
 
-- Language — Python 3.7, Jupyter Notebook  
-- Database — SQLite3 (lightweight relational database for storing company financials)  
-- UI — PyQt5 (desktop GUI, designed with Qt Designer)  
-- Visualization — Matplotlib (charts, trend graphs), NumPy (numerical computations)  
-- Environment — Anaconda  
-- Data Sources — CSV imports of PRC-listed company financials, integrated into SQLite
+- **Language** — Python 3.7, Jupyter Notebook  
+- **Database** — SQLite3 (lightweight relational database for storing company financials)  
+- **UI** — PyQt5 (desktop GUI, designed with Qt Designer)  
+- **Visualization** — Matplotlib (charts, trend graphs), NumPy (numerical computations)  
+- **Environment** — Anaconda  
+- **Data Sources** — CSV imports of PRC-listed company financials, integrated into SQLite
 
 ## 💰 Financial Analysis Theories Applied
+
 This system applies not just technical coding but also embeds core financial analysis theories—ratio analysis, DuPont decomposition, valuation models, and risk frameworks for professional finance/accounting:
-- **Ratio Analysis Frameworks**
+- **Ratio Analysis Frameworks** — 
 The app calculates liquidity (current ratio, quick ratio), profitability (ROA, ROE, gross margin), and leverage (debt-to-equity) ratios, directly aligning with textbook financial statement analysis.  
-- **DuPont Analysis**
+- **DuPont Analysis** — 
 Integrated into ranking dashboards, ROE is decomposed into net profit margin, asset turnover, and equity multiplier, helping users identify the drivers of shareholder value.  
-- **Trend & Comparative Analysis**
+- **Trend & Comparative Analysis** — 
 Using Matplotlib, the app visualizes multi-year trends and peer comparisons, reflecting horizontal and vertical analysis methods taught in accounting and finance.  
-- **Discounted Cash Flow (DCF) & Net Present Value (NPV)** 
+- **Discounted Cash Flow (DCF) & Net Present Value (NPV)** — 
 Forecasting modules apply time value of money principles to evaluate investment projects and corporate valuation, supporting investor decision-making.  
-- **Capital Structure & Risk Theories**
+- **Capital Structure & Risk Theories** — 
 Debt-to-equity and asset-liability ratios are embedded into dashboards, reflecting Modigliani-Miller and trade-off theory considerations for financing decisions.  
-- **Variance & Sensitivity Analysis**
+- **Variance & Sensitivity Analysis** — 
 Stochastic simulations test resilience of financial outcomes under different market conditions, aligning with actuarial-style stress testing and modern risk management.  
-- **Corporate Governance & Compliance**
+- **Corporate Governance & Compliance** — 
 By modeling PRC-listed companies, the app implicitly applies CFC regime awareness and compliance frameworks, ensuring group structures and intercompany transactions are correctly represented.
 
 ## System Outcome
