@@ -55,7 +55,7 @@ By modeling PRC-listed companies, the app implicitly applies controlled foreign 
 4. Selection of Company (selectfirm.py)
 <img src="assets/JeffreyWooFinAnalysisSys4.jpg" alt="JeffreyWooFinAnalysisSys4" width="400" height="600" />
 
-## Project Procedure
+## 🛠️ Project Procedure
 
 • **System Development Environment:**  
 a. Integrated development environment: Anaconda  
