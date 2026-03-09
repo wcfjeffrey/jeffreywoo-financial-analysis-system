@@ -17,7 +17,7 @@ Applying Python to establish a financial analysis system for PRC listed companie
 ## Tech Stack
 
 Language — Python 3.7, Jupyter Notebook  
-Database — SQLite3  
+Database — SQLite3 (lightweight relational database for storing company financials)  
 UI — PyQt5 (desktop GUI, designed with Qt Designer)  
 Visualization — Matplotlib (charts, trend graphs), NumPy (numerical computations)  
 Environment — Anaconda  
