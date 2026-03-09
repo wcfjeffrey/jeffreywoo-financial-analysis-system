@@ -14,6 +14,15 @@ Moreover, it is of great help to my professional development. Hence, I created a
 
 Applying Python to establish a financial analysis system for PRC listed companies.
 
+## Tech Stack
+
+Language — Python 3.7, Jupyter Notebook  
+Database — SQLite3  
+UI — PyQt5 (desktop GUI, designed with Qt Designer)  
+Visualization — Matplotlib (charts, trend graphs), NumPy (numerical computations)  
+Environment — Anaconda  
+Data Sources — CSV imports of PRC-listed company financials, integrated into SQLite
+
 ## System Outcome
 
 1. Search Page (start.py)
