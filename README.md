@@ -2,7 +2,7 @@
 
 <img src="assets/JeffreyWooFinAnalysisSys.png" alt="JeffreyWooFinAnalysisSysBanner" width="1200" height="900" />
 
-## Preface
+## 📝 Preface
 
 Big data is a popular new catchphrase in the realm of information technology and quantitative methods that refer to the collection and analysis of massive amounts of information. Advances in computing power along with falling prices thereof are making big data projects increasingly more technically feasible and economic. In particular, the advent of cloud computing is putting the cost of big data analysis within the reach of many smaller firms, which now do not need to make significant capital investments in their own computing infrastructure.
 
@@ -10,11 +10,11 @@ As the accounting/financial industry has rapidly sprung up towards data-driven o
 
 Moreover, it is of great help to my professional development. Hence, I created a financial analysis system for PRC listed companies by Python. It may also help investors formulate better investment strategies. If you are interested in it, please read the following information:
 
-## Purpose
+## 🎯 Purpose
 
 Applying Python to establish a financial analysis system for PRC listed companies.
 
-## Tech Stack
+## 🤖 Tech Stack
 
 - **Language** — Python 3.7, Jupyter Notebook  
 - **Database** — SQLite3 (lightweight relational database for storing company financials)  
@@ -41,7 +41,7 @@ Stochastic simulations test resilience of financial outcomes under different mar
 - **Corporate Governance & Compliance** — 
 By modeling PRC-listed companies, the app implicitly applies controlled foreign corporation (CFC) regime awareness and compliance frameworks, ensuring group structures and intercompany transactions are correctly represented.
 
-## System Outcome
+## 📈 System Outcome
 
 1. Search Page (start.py)
 <img src="assets/JeffreyWooFinAnalysisSys1.jpg" alt="JeffreyWooFinAnalysisSys1" width="1200" height="900" />
