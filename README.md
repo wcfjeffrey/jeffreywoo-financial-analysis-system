@@ -39,7 +39,7 @@ Debt-to-equity and asset-liability ratios are embedded into dashboards, reflecti
 - **Variance & Sensitivity Analysis** — 
 Stochastic simulations test resilience of financial outcomes under different market conditions, aligning with actuarial-style stress testing and modern risk management.  
 - **Corporate Governance & Compliance** — 
-By modeling PRC-listed companies, the app implicitly applies CFC regime awareness and compliance frameworks, ensuring group structures and intercompany transactions are correctly represented.
+By modeling PRC-listed companies, the app implicitly applies controlled foreign corporation (CFC) regime awareness and compliance frameworks, ensuring group structures and intercompany transactions are correctly represented.
 
 ## System Outcome
 
