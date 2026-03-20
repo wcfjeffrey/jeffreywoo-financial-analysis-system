@@ -8,7 +8,11 @@ Big data is a popular new catchphrase in the realm of information technology and
 
 As the accounting/financial industry has rapidly sprung up towards data-driven optimization in response to the growth of big data, companies must respond to these changes in a deliberate and comprehensive manner. Efficient technology solutions that meet the advanced analytical demands of digital transformation will enable the companies to fully leverage the capabilities of unstructured and high volume data, discover competitive advantages, and drive new market opportunities.
 
-Moreover, it is of great help to my professional development. Hence, I created a financial analysis system for PRC listed companies by Python. It may also help investors formulate better investment strategies. If you are interested in it, please read the following information:
+Moreover, it is of great help to my professional development. Hence, I created a financial analysis system for PRC listed companies by Python. It may also help investors formulate better investment strategies.
+
+**Note:** This project represents the starting point of my exploration into the "data-driven financial analysis" methodology and serves as the logical foundation for all my subsequent AI-powered financial applications (such as valuation models, risk simulations, etc.). It demonstrates how classic financial theories—including DCF (Discounted Cash Flow), DuPont Analysis, Capital Structure Theory, and others—can be transformed into practical, executable analytical tools. Although the technology stack evolves over time (from Python desktop applications to modern web-based AI), the analytical framework, valuation logic, and risk assessment mindset established by this project remain central to all my financial work to this day. I regard it as a "living methodological document" that showcases my mastery of financial fundamentals and my ability to systematize and engineer complex theories.
+
+If you are interested in it, please read the following information:
 
 ## 🎯 Purpose
 
@@ -88,8 +92,6 @@ But how to insert the legend of the data change trend in the table?
 <img src="assets/JeffreyWooFinAnalysisSys9.jpg" alt="JeffreyWooFinAnalysisSys9" width="1200" height="1800" />
 
 This data came from main.py. I applied Matplotlib to generate pictures, and then inserted Form Controls into the table.
-
-If you are interested in the details, please take a look at my Python codes, which have been uploaded to github: https://github.com/wcfjeffrey/Python
 
 ## ⭐ Finance Skills Strengthened
 • Full‑stack architecture for financial analytics applications.  
