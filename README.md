@@ -109,3 +109,10 @@ This data came from main.py. I applied Matplotlib to generate pictures, and then
 • File parsing & structured data transformation (CSV, PDF, SQL) for automated reporting.  
 • Data visualization with Matplotlib & interactive dashboards for decision support.  
 • Database management & financial analytics — contributing to professional growth in finance transformation & investment strategy.
+
+## 👤 About the Author
+Jeffrey Woo — Qualified Accountant | Finance Transformation Leader | ERP & AI‑Driven Automation | MBA | FCCA | CTA | FTIHK | SAP Financial Accounting (FI) Certified Application Associate | Xero Advisor Certified
+
+📧 Email: jeffreywoocf@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/wcfjeffrey/  
+🐙 GitHub: https://github.com/wcfjeffrey/
