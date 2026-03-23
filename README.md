@@ -111,7 +111,7 @@ This data came from main.py. I applied Matplotlib to generate pictures, and then
 • Database management & financial analytics — contributing to professional growth in finance transformation & investment strategy.
 
 ## 👤 About the Author
-Jeffrey Woo — Qualified Accountant | Finance Transformation Leader | ERP & AI‑Driven Automation | MBA | FCCA | CTA | FTIHK | SAP Financial Accounting (FI) Certified Application Associate | Xero Advisor Certified
+Jeffrey Woo — Finance Manager | Strategic FP&A, AI Automation & Cost Optimization | MBA | FCCA | CTA | FTIHK | SAP Financial Accounting (FI) Certified Application Associate | Xero Advisor Certified
 
 📧 Email: jeffreywoocf@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/wcfjeffrey/  
