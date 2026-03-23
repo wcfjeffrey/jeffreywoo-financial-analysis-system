@@ -4,6 +4,14 @@
 
 ## 📝 Preface
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-2CDE85?logo=Qt&logoColor=fff)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)
+
 "Big data" has evolved from a catchphrase into the driving force behind modern financial intelligence. Advances in computing power and the advent of cloud computing have democratized data analysis, putting sophisticated insights within reach of firms of all sizes. In response, the accounting and finance industry is rapidly shifting toward data-driven optimization. Companies that leverage efficient technology solutions to analyze both structured and high-volume unstructured data can unlock competitive advantages and discover new market opportunities.
 
 This project represents the starting point of my personal and professional journey into data-driven financial analysis. It serves as the logical and technical foundation for all my subsequent AI-powered financial applications, including advanced valuation models and risk simulations.
