@@ -110,6 +110,13 @@ This data came from main.py. I applied Matplotlib to generate pictures, and then
 • Data visualization with Matplotlib & interactive dashboards for decision support.  
 • Database management & financial analytics — contributing to professional growth in finance transformation & investment strategy.
 
+## ⚖️ Disclaimer
+This app is for educational and portfolio demonstration purposes only. It does not provide financial, investment, or legal advice.
+
+Data is sourced from public third‑party websites (e.g., 财报说) and may not be accurate or complete. The software is provided “as is” without warranties. Past performance does not guarantee future results.
+
+Always consult a qualified professional before making investment decisions. The developer is not liable for any losses or damages arising from use of this system.
+
 ## 👤 About the Author
 Jeffrey Woo — Finance Manager | Strategic FP&A, AI Automation & Cost Optimization | MBA | FCCA | CTA | FTIHK | SAP Financial Accounting (FI) Certified Application Associate | Xero Advisor Certified
 
