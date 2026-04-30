@@ -110,6 +110,55 @@ This data came from main.py. I applied Matplotlib to generate pictures, and then
 • Data visualization with Matplotlib & interactive dashboards for decision support.  
 • Database management & financial analytics — contributing to professional growth in finance transformation & investment strategy.
 
+## 📐Data Flow and Logic Sequence
+
+```mermaid
+flowchart TD
+    subgraph PHASE1["Phase 1: Database Setup"]
+        direction TB
+        A1["Import CSV Financial Data"] --> A2["SQLite3 Database"]
+        A2 --> A3["Company Financial Tables"]
+    end
+
+    subgraph PHASE2["Phase 2: User Interface Navigation"]
+        direction TB
+        B1["Start Page start.py"] --> B2["Search Companies"]
+        B2 --> B3["Main Window main.py"]
+        B3 --> B4["Select Company selectfirm.py"]
+        B3 --> B5["Ranking View rank.py"]
+    end
+
+    subgraph PHASE3["Phase 3: Financial Analysis Engine"]
+        direction TB
+        C1["Ratio Analysis"] --> C2["Liquidity Ratios Current/Quick"]
+        C1 --> C3["Profitability Ratios ROA/ROE/Gross Margin"]
+        C1 --> C4["Leverage Ratios Debt-to-Equity"]
+        C2 --> C5["DuPont ROE Decomposition"]
+        C3 --> C5
+        C4 --> C5
+        C5 --> C6["Trend Analysis over Time"]
+    end
+
+    subgraph PHASE4["Phase 4: Data Visualization"]
+        direction TB
+        D1["Matplotlib Charts"] --> D2["Multi-Year Trends"]
+        D1 --> D3["Peer Comparisons"]
+        D1 --> D4["Performance Dashboards"]
+    end
+
+    subgraph PHASE5["Phase 5: Company Ranking"]
+        direction TB
+        E1["Calculate Composite Score"] --> E2["Rank Companies"]
+        E2 --> E3["Display Ranking Table"]
+        E3 --> E4["Export Results"]
+    end
+
+    A3 --> B1
+    B4 --> C1
+    B5 --> E1
+    C6 --> D1
+```
+
 ## ⚖️ Disclaimer
 This app is for educational and portfolio demonstration purposes only. It does not provide financial, investment, or legal advice.
 
