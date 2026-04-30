@@ -112,6 +112,15 @@ This data came from main.py. I applied Matplotlib to generate pictures, and then
 
 ## 📐Data Flow and Logic Sequence
 
+The following diagram illustrates how the system processes financial data — from CSV import to SQLite storage, through ratio analysis and DuPont decomposition, to the PyQt5 dashboard and ranking outputs — integrating the financial theories and technical components described above.
+
+> **Phases shown below:**
+> 1. Database Setup (CSV → SQLite)
+> 2. User Interface Navigation (PyQt5 pages)
+> 3. Financial Analysis Engine (ratios, DuPont)
+> 4. Data Visualization (Matplotlib charts)
+> 5. Company Ranking (composite scoring
+
 ```mermaid
 flowchart TD
     subgraph PHASE1["Phase 1: Database Setup"]
