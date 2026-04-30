@@ -110,7 +110,7 @@ The following diagram illustrates how the system processes financial data — fr
 > 2. User Interface Navigation (PyQt5 pages)
 > 3. Financial Analysis Engine (ratios, DuPont)
 > 4. Data Visualization (Matplotlib charts)
-> 5. Company Ranking (composite scoring
+> 5. Company Ranking (composite scoring)
 
 ```mermaid
 flowchart TD
