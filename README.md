@@ -168,7 +168,7 @@ flowchart TD
 • Data visualization with Matplotlib & interactive dashboards for decision support.  
 • Database management & financial analytics — contributing to professional growth in finance transformation & investment strategy.
 
-## References
+## 📚 References
 
 **1. Financial Theories & Valuation Models**
 
