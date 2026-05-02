@@ -174,22 +174,21 @@ flowchart TD
 
 **Discounted Cash Flow (DCF) & Net Present Value (NPV) (time value of money principles for evaluating investment projects and corporate valuation in the forecasting modules)**
 
-- Brealey, R. A., Myers, S. C., & Allen, F. (2023). Principles of Corporate Finance (14th ed.). McGraw-Hill Education. (Original work published 1981)
+- [Brealey, R. A., Myers, S. C., & Allen, F. (2023). Principles of Corporate Finance (14th ed.). McGraw-Hill Education. (Original work published 1981)](https://www.mheducation.com/highered/product/principles-of-corporate-finance-brealey.html?viewOption=student)
 
 **DuPont Analysis (ROE decomposition into net profit margin, asset turnover, and equity multiplier within the ranking dashboards)**
 
-- DuPont Corporation. (1920). Return on Investment (ROI) Formula (Internal financial performance metric). DuPont Powder Company.
-- Academic reference: Foulke, R. A. (1968). Practical Financial Statement Analysis (6th ed.). McGraw-Hill. (Original work published 1945)
-
+- [Foulke, R. A. (1968). Practical Financial Statement Analysis (6th ed.). McGraw-Hill. (Original work published 1945)](https://www.amazon.com/Practical-Financial-Statement-Analysism-6th/dp/007021655X)
+  
 **Capital Structure Theories (Modigliani-Miller & Trade-Off Theory) (Debt-to-equity and asset-liability ratio analysis embedded in dashboards, reflecting capital structure considerations)**
 
-- Modigliani, F., & Miller, M. H. (1958). The Cost of Capital, Corporation Finance and the Theory of Investment. The American Economic Review, 48(3), 261–297.
-- Modigliani, F., & Miller, M. H. (1963). Corporate Income Taxes and the Cost of Capital: A Correction. The American Economic Review, 53(3), 433–443.
-- Kraus, A., & Litzenberger, R. H. (1973). A State-Preference Model of Optimal Financial Leverage. The Journal of Finance, 28(4), 911–922.
+- [Modigliani, F., & Miller, M. H. (1958). The Cost of Capital, Corporation Finance and the Theory of Investment. The American Economic Review, 48(3), 261–297.](https://www.jstor.org/stable/1809766)
+- [Modigliani, F., & Miller, M. H. (1963). Corporate Income Taxes and the Cost of Capital: A Correction. The American Economic Review, 53(3), 433–443.](https://www.jstor.org/stable/1809167)
+- [Kraus, A., & Litzenberger, R. H. (1973). A State-Preference Model of Optimal Financial Leverage. The Journal of Finance, 28(4), 911–922.](https://www.jstor.org/stable/2978343)
 
 **Ratio Analysis Framework (Liquidity (current/quick ratio), profitability (ROA, ROE, gross margin), and leverage (debt-to-equity) ratio calculations)**
 
-- Horrigan, J. O. (1968). A Short History of Financial Ratio Analysis. The Accounting Review, 43(2), 284–294.
+- [Horrigan, J. O. (1968). A Short History of Financial Ratio Analysis. The Accounting Review, 43(2), 284–294.](https://www.jstor.org/stable/243765)
 
 **2. Technical Libraries & Tools**
 
