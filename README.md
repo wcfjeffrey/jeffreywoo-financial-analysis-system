@@ -168,6 +168,55 @@ flowchart TD
 • Data visualization with Matplotlib & interactive dashboards for decision support.  
 • Database management & financial analytics — contributing to professional growth in finance transformation & investment strategy.
 
+## References
+
+**1. Financial Theories & Valuation Models**
+
+**Discounted Cash Flow (DCF) & Net Present Value (NPV) (time value of money principles for evaluating investment projects and corporate valuation in the forecasting modules)**
+
+- Brealey, R. A., Myers, S. C., & Allen, F. (2023). Principles of Corporate Finance (14th ed.). McGraw-Hill Education. (Original work published 1981)
+
+**DuPont Analysis (ROE decomposition into net profit margin, asset turnover, and equity multiplier within the ranking dashboards)**
+
+- DuPont Corporation. (1920). Return on Investment (ROI) Formula (Internal financial performance metric). DuPont Powder Company.
+- Academic reference: Foulke, R. A. (1968). Practical Financial Statement Analysis (6th ed.). McGraw-Hill. (Original work published 1945)
+
+**Capital Structure Theories (Modigliani-Miller & Trade-Off Theory) (Debt-to-equity and asset-liability ratio analysis embedded in dashboards, reflecting capital structure considerations)**
+
+- Modigliani, F., & Miller, M. H. (1958). The Cost of Capital, Corporation Finance and the Theory of Investment. The American Economic Review, 48(3), 261–297.
+- Modigliani, F., & Miller, M. H. (1963). Corporate Income Taxes and the Cost of Capital: A Correction. The American Economic Review, 53(3), 433–443.
+- Kraus, A., & Litzenberger, R. H. (1973). A State-Preference Model of Optimal Financial Leverage. The Journal of Finance, 28(4), 911–922.
+
+**Ratio Analysis Framework (Liquidity (current/quick ratio), profitability (ROA, ROE, gross margin), and leverage (debt-to-equity) ratio calculations)**
+
+- Horrigan, J. O. (1968). A Short History of Financial Ratio Analysis. The Accounting Review, 43(2), 284–294.
+
+**2. Technical Libraries & Tools**
+
+**PyQt5 (Desktop GUI designed with Qt Designer for search pages, main windows, and ranking displays)**
+
+- [Riverbank Computing Limited. (2024). PyQt5: Python Bindings for Qt5 Application Framework.](https://www.riverbankcomputing.com/software/pyqt/)
+
+**Matplotlib (Visualization for multi-year trends, peer comparisons, and performance dashboards)**
+
+- [Hunter, J. D. (2007). Matplotlib: A 2D Graphics Environment. Computing in Science & Engineering, 9(3), 90–95.](https://doi.org/10.1109/MCSE.2007.55)
+
+**NumPy (Numerical calculations supporting ratio analysis and stochastic simulations)**
+
+- [Harris, C. R., Millman, K. J., van der Walt, S. J., et al. (2020). Array programming with NumPy. Nature, 585, 357–362.](https://doi.org/10.1038/s41586-020-2649-2)
+
+**SQLite3 (Lightweight relational database storing company financial data imported from CSVs)**
+
+- [Hipp, D. R. (2024). SQLite: The Most Deployed Database in the World. SQLite Consortium.](https://www.sqlite.org/)
+
+**Anaconda (Integrated development environment managing Python 3.7 installation and libraries)**
+
+- [Anaconda Software Distribution. (2024). Anaconda Distribution: The World's Most Popular Python Distribution for Data Science. Anaconda, Inc.](https://docs.anaconda.com/)
+
+**Financial commentary (Web Crawling)**
+
+- [财报说 (CaiBaoShuo). (2020). PRC Listed Company Financial Performance Commentary.](https://caibaoshuo.com/)
+
 ## ⚖️ Disclaimer
 This app is for educational and portfolio demonstration purposes only. It does not provide financial, investment, or legal advice.
 
